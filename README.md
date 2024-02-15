@@ -1,4 +1,4 @@
-# The Smith Paradise - A Machine Learning Project
+# The Smith Paradise: A Machine Learning Project
 
 
 
